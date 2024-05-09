@@ -1,0 +1,3 @@
+2) Writing SQL Statement showing the Total of all Outage Types (Forced, Consequential, Scheduled, Opportunistic) where the Status = Approved, that occurred for 2016 and 2017, grouped by Year and Month. per month (i.e. 1 – 12). Order by Year, Month, Total_Number_Outages in Descending Order.
+
+ii) Building on the query you write in i), group the results by Outage Type, Year, and Month. This is so you can identify whether there is any outage type specifically increasing every month when comparing 2016 to 2017.
