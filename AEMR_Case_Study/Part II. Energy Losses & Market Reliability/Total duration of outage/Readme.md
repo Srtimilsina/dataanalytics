@@ -1,0 +1,1 @@
+7)Write a SQL Statement to calculate the Total Number of Outages, Total Duration In days, and Total Energy Lost of all valid Outages for each participant code and facility_code, sorted by Total Energy Lost in descending order and Ordered by the YEAR Category.
