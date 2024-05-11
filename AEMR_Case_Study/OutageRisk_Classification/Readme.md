@@ -1,0 +1,2 @@
+
+4)Write a SQL Statement that classifies each participant code as High Risk, Medium Risk, or Low Risk in a column called Risk_Classification based on their Average Outage Duration Time. Please note that this is for all valid (i.e. Where status = approved) outage types (Forced, Consequential, Scheduled, Opportunistic) for all participant codes from 2016 to 2017. Order the results using Average Duration Time In Days in descending order.
