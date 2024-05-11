@@ -1,0 +1,1 @@
+3)Write a SQL statement calculating 1) The Total_Number_Outage_Events and 2) The Average Duration in DAYS for each Participant Code and Outage Type over the 2016 and 2017 Period where the Status = Approved, and finally, order by Total_Number_Outage_Events in Descending Order, Reaso and Year.
