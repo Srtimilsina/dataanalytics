@@ -1,0 +1,1 @@
+9)Write a SQL Statement to calculate the Average Energy Lost and Total Energy Lost for each Facility Code and Participant Code across both the 2016 and 2017 periods when the Outage_Reason is set to Forced. Upon completion of this, calculate the percentage of energy lost due to forced outages for each Facility_Code. Please ORDER the query by Total Energy Lost from 2016 to 2017.

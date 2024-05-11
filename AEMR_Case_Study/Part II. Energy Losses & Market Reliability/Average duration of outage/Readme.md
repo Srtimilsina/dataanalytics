@@ -1,0 +1,1 @@
+8)Write a SQL Statement to calculate the Average Duration In Days and Average Energy Lost of all valid FORCED OUTAGES for each participant code and facility_code sorted by Average Energy Lost in descending order and Ordered by the YEAR Category.
